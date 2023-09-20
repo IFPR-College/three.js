@@ -1,4 +1,4 @@
-# three.js
+# Learning Three.js
 
 In this repository i'll be testing and learning how to use Three.js.
 
